@@ -1,0 +1,11 @@
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\obj\Release\AdressesUtility.csproj.AssemblyReference.cache
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\obj\Release\AdressesUtility.csproj.CoreCompileInputs.cache
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\bin\Release\AdressesUtility.dll
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\bin\Release\AdressesUtility.pdb
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\bin\Release\EncodingTools.dll
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\bin\Release\ExcelUtil.dll
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\bin\Release\EncodingTools.pdb
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\bin\Release\ExcelUtil.pdb
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\obj\Release\AdressesUtility.csproj.CopyComplete
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\obj\Release\AdressesUtility.dll
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\obj\Release\AdressesUtility.pdb

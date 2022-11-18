@@ -55,7 +55,11 @@
     <Compile Include="VersionUtil.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\Excel\ExcelUtil\ExcelUtil.csproj">
+    <ProjectReference Include="..\..\WinEncodingTools\EncodingTools\EncodingTools.csproj">
+      <Project>{ca19d4de-b232-491a-92bf-7bf3a2758694}</Project>
+      <Name>EncodingTools</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinExcelUtil\ExcelUtil\ExcelUtil.csproj">
       <Project>{8aa5d046-8c2d-4f55-acdc-13154ed3ec0d}</Project>
       <Name>ExcelUtil</Name>
     </ProjectReference>
