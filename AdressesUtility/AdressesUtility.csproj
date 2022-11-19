@@ -63,6 +63,14 @@
       <Project>{8aa5d046-8c2d-4f55-acdc-13154ed3ec0d}</Project>
       <Name>ExcelUtil</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\WinFtp\Ftp\Ftp.csproj">
+      <Project>{fb55f4a3-2a79-4130-bbde-71091cb7a7c8}</Project>
+      <Name>Ftp</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\WinJazzFtp\JazzFtp\JazzFtp.csproj">
+      <Project>{a7b3d312-be5b-4ff2-98fe-5ca0071c20cb}</Project>
+      <Name>JazzFtp</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

@@ -9,3 +9,7 @@ C:\JazzWinApps\WinHelpAdressen\AdressesUtility\bin\Release\ExcelUtil.pdb
 C:\JazzWinApps\WinHelpAdressen\AdressesUtility\obj\Release\AdressesUtility.csproj.CopyComplete
 C:\JazzWinApps\WinHelpAdressen\AdressesUtility\obj\Release\AdressesUtility.dll
 C:\JazzWinApps\WinHelpAdressen\AdressesUtility\obj\Release\AdressesUtility.pdb
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\bin\Release\Ftp.dll
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\bin\Release\JazzFtp.dll
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\bin\Release\Ftp.pdb
+C:\JazzWinApps\WinHelpAdressen\AdressesUtility\bin\Release\JazzFtp.pdb
